@@ -1,0 +1,3 @@
+[submodule "models/aasist"]
+	path = models/aasist
+	url = https://github.com/clovaai/aasist.git
